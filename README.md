@@ -1,4 +1,4 @@
-# Aplicación del Reconocimiento Óptico de Caracteres 2020
+# Aplicación del Reconocimiento Óptico de Caracteres (2020)
 
 ## Descripción
 
@@ -20,3 +20,5 @@ La aplicación se realizó en R, con ayuda de la biblioteca [Shiny](https://shin
 
 ## App
 ![](https://github.com/LaurieBetancourt/Analisis-datos-covid19-2020/blob/main/img/chrome_soTQLlsGSw.gif)
+
+*Proyecto finalizado: Mayo 2020*
